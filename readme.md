@@ -1,4 +1,4 @@
-# MTG CLIP
+# MTG IMAGE RETRIVAL
 **WORK IN PROGRESS**
 This repo uses CLIP in order to detect similar images.
 
@@ -22,7 +22,7 @@ This repo uses CLIP in order to detect similar images.
 This repo needs Tensorflow, Pytorch or Flax installed.
 
 ## TODO:
-[ ] docker
-[ ] API
-[ ] Benchmark
-[ ] fix predictor output
+- [ ] docker
+- [ ] API
+- [ ] Benchmark
+- [ ] fix predictor output
